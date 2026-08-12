@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-c785sh.yoursingles.online/sitemap.xml
